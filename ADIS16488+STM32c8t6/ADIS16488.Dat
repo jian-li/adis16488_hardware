@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ADIS16488.PrjPcb|ReportField=ProjectFullPath~I:\report\无人机硬件平台\ADIS16488+STM32\ADIS16488.PrjPcb|ReportField=Title~Bill of Materials For Project [ADIS16488.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~36|ReportField=ReportTime~20:02:06|ReportField=ReportDate~2017/7/24|ReportField=ReportDateTime~2017/7/24 20:02:06|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/7/24|ReportField=CurrentTime~20:01:51|ReportField=Date~|ReportField=DocumentFullPathAndName~I:\report\无人机硬件平台\ADIS16488+STM32\EXT_IO.SchDoc|ReportField=DocumentName~EXT_IO.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/5/2|ReportField=Organization~|ReportField=ProjectName~ADIS16488.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ADIS16488.PrjPcb|ReportField=DataSourceFullPath~I:\report\无人机硬件平台\ADIS16488+STM32\ADIS16488.PrjPcb
+104|Ceramic Capacitor|C1, C2, C3|C0603|Cap Cer|3
+47uF/6V3|Ceramic Capacitor|C4, C5, C13, C14|C0805|Cap Cer|4
+20P|Ceramic Capacitor|C6, C7|0603C|Cap Cer|2
+104|Ceramic Capacitor|C8, C9, C10, C11, C12|0603C|Cap Cer|5
+USB_MINI|USB_MINI|J1|USB_Micro|USB_MICRO|1
+MHDR1X4|Header, 4-Pin|J2|CON4|MHDR1X4|1
+CON6|Connector|J3|ZH1.5-6|CON6|1
+LEDR|LEDR|LED1, LED2, LED3|LED_0603|LED|3
+ADIS16488A|Header, 12-Pin, Dual row|P1|ADIS16488A|ADIS16488A|1
+100K|Resistor|R1, R2, R6|0603R|Res|3
+1K|Resistor|R3, R4, R5, R7|0603R|Res|4
+TESTPOINT|TESTPOINT|TP1, TP2, TP3, TP4|HOLE_M2|TP|4
+STM32F103RBT6|STM32 ARM-based 32-bit MCU with 128 Kbytes Flash, 64-pin LQFP, Industrial Temperature|U1|LQFP64_N|STM32F103RBT6|1
+CP2103-GM||U2|QFN28-CP2103|CP2103|1
+LM1117|LM1117|U3|SOT-223|LM1117|1
+8M|Crystal|X1|3225-XTAL|Crystal|1
